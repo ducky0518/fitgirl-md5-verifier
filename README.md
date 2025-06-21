@@ -42,7 +42,7 @@ This is particularly useful for verifying large downloads, such as software pack
 
 1.  **Run the application:** (double click pre-built Windows binary) - OR -
     ```bash
-    python fitgirl_verifier.py
+    python fitgirl-md5-verifier.py
     ```
 2.  **Select a Directory:** Click the **"Browse..."** button and choose the root directory you want to scan (e.g., the folder containing your downloaded files and the `.md5` file).
 3.  **Start Verification:** Click the **"Start Verification"** button to begin the process.
