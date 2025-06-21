@@ -2,7 +2,7 @@
 
 A simple, user-friendly desktop application built with Python and CustomTkinter to recursively find and verify MD5 checksums for FitGirl Repacks.
 
-![Screenshot of FitGirl MD5 Verifier App](https://i.imgur.com/your-screenshot-url.png) <!-- It's recommended to add a screenshot of your app here -->
+![Screenshot of FitGirl MD5 Verifier App](fitgirl-md5-verifier.png) <!-- It's recommended to add a screenshot of your app here -->
 
 ## Description
 
